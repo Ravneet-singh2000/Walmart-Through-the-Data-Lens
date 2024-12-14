@@ -1,8 +1,7 @@
 # Walmart-Through-the-Data-Lens
 
-# Power BI Project: Sales Analysis Dashboard
+# Power BI Project: Walmart Dashboard
 
-This repository houses the files and resources utilized to construct an in-depth sales analysis dashboard leveraging Power BI. The dashboard delivers a comprehensive visual representation of sales performance, profits, and other critical metrics spanning the years 2011 to 2015.
 
 ## Data Sources
 
